@@ -1,0 +1,21 @@
+{
+  "name":"FitBit-Step",
+  "version": "0.9.9",
+  "license": "Apache-2.0",
+  "description": "Node.js app tracking Fitbit data and using location services on IBM's BlueMix",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6 ",
+    "ejs": "*",
+    "querystring": "0.2.0"
+  },
+  "engines": {
+		"node": "0.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.jazz.net/git/joychatterjee/FitBit.Step"
+  }
+}
